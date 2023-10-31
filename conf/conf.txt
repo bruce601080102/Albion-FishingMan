@@ -1,0 +1,14 @@
+[conf]
+box_x = 924
+box_y = 400
+diff_ratio_threshold = 1.02
+cv_threshold = 0.8
+
+[fishing_direction]
+top_x = 0.5054
+top_y = 0.3
+left_x = 0.18073593073593072
+left_y = 0.83
+right_x = 0.8127
+right_y = 0.8225
+
