@@ -43,6 +43,7 @@ python main.py
 ```sh
 pyinstaller --onefile main.py
 ```
+[執行檔下載](https://drive.google.com/uc?id=1LJQqogSfp2XRmxVQxGswINJsaJJlc7Ue&export=download)
 
 ## 問題與解答
 Q. 如果有偵測出釣魚,卻沒有後續拉桿的動作怎麼辦?

@@ -45,6 +45,7 @@ To create a standalone executable, run:
 ```sh
 pyinstaller --onefile main.py
 ```
+[Executable Download](https://drive.google.com/uc?id=1LJQqogSfp2XRmxVQxGswINJsaJJlc7Ue&export=download)
 
 
 ## FAQs
